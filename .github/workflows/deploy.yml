@@ -16,4 +16,4 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./dist
-          destination: ./dist/_site
+          destination: ./dist
