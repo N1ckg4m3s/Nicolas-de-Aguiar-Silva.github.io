@@ -1,0 +1,350 @@
+{
+    "S1-T1":{
+        "Nome":"Algoritmo Descobrir Números Primos",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_1/blob/main/TRABALHO%20NIVEL%201",
+        "Descricao":"Este projeto implementa um algoritmo em AlgoBox para identificar todos os números primos até um número escolhido pelo usuário. O algoritmo utiliza uma abordagem de verificação por divisibilidade para determinar a primalidade de cada número. Além de identificar os números primos, o programa calcula a soma total desses números até o limite especificado. ",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["ALGOBOX"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+    "S1-T2":{
+        "Nome":"Transformação de Números Decimais em Binário",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_1/blob/main/TRABALHO%20NIVEL%202",
+        "Descricao":"Este programa em Python permite ao usuário inserir um número decimal e converte esse número para sua representação binária. Utilizando a técnica de divisão sucessiva por 2, a função TransformarBinario calcula os dígitos binários e os armazena em uma lista, que é então revertida para formar o número binário final. ",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["PYTHON"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+    "S1-T3":{
+        "Nome":"Geração de Subconjuntos a partir de uma Lista de Números",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_1/blob/main/TRABALHO%20NIVEL%203",
+        "Descricao":"Este programa em Python permite ao usuário inserir uma lista de números separados por vírgula. Em seguida, ele gera todos os subconjuntos possíveis desses números, incluindo subconjuntos de diferentes tamanhos. Utilizando uma abordagem recursiva, a função GerarResposta chama a função interna Create_Array para construir os subconjuntos de acordo com o tamanho especificado. ",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["PYTHON"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+    "S1-T4":{
+        "Nome":"Sistema de Gestão de Gastos com Visualização Gráfica",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_1/blob/main/TRABALHO%20NIVEL%204",
+        "Descricao":"Este sistema em Python oferece uma interface gráfica simples para gerenciar e visualizar gastos categorizados. Utilizando a biblioteca Matplotlib para gráficos e LinearRegression do sklearn para regressão linear, o programa permite ao usuário adicionar novos gastos, criar gráficos com regressão linear e visualizar todos os gastos em diferentes categorias",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["PYTHON"],"Bibliotecas":["Tkinter","Matplotlib","scikit-learn"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+
+    "S2-T1-Parte1":{
+        "Nome":"Ordenador de Números",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_1",
+        "Descricao":"Este projeto implementa três algoritmos de ordenação: Bubble Sort, Quick Sort e Selection Sort. Cada algoritmo é aplicado para ordenar uma lista de números fornecida pelo usuário, demonstrando diferentes técnicas de ordenação e suas eficiências relativas",
+        "Responsivo":"Não",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["HTML","CSS","JAVASCRIPT","BOOTSTRAP"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S2-T1/Ordenador.png"
+        ]
+    },
+
+    "S2-T1-Parte2":{
+        "Nome":"Gerador de Cards com Informações de Receitas usando Bootstrap",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_2",
+        "Descricao":"Expansão do projeto anterior [Gerador de Cards com Informações de Receitas Simples] utilizando Bootstrap para melhorar o design e a responsividade dos cards de receitas, proporcionando uma interface mais moderna e amigável.",
+        "Responsivo":"Sim",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["HTML","CSS","JAVASCRIPT","BOOTSTRAP"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+    "S2-T1-Parte3":{
+        "Nome":"Gerador de Cards com Informações de Receitas Simples",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_1",
+        "Descricao":"Este projeto cria cards com informações de receitas simples. Os cards exibem detalhes como nome da receita, ingredientes e instruções de preparo, permitindo aos usuários visualizar e explorar diferentes receitas de forma interativa",
+        "Responsivo":"Não",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["HTML","CSS","JAVASCRIPT","BOOTSTRAP"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+    "S2-T2-Parte1":{
+        "Nome":"Cadastro Simples",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_2",
+        "Descricao":"Implementação de um formulário de cadastro simples. Os usuários podem preencher informações básicas como nome, e-mail e telefone, que são validadas e submetidas para armazenamento ou processamento posterior",
+        "Responsivo":"Não",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["3","dia"],
+        "Habilidades":{"LINGUAGEM":["HTML","CSS","JAVASCRIPT","BOOTSTRAP"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+    
+    "S2-T2-Parte2":{
+        "Nome":"Gerador de Cards com Dados de uma API",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_1",
+        "Descricao":"Este projeto busca dados de uma API externa e gera cards dinâmicos com as informações obtidas. Os cards são exibem dados como título, descrição e imagem de cada item recuperado da API",
+        "Responsivo":"Não",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["HTML","CSS","JAVASCRIPT","BOOTSTRAP"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+    "S2-T3-Parte1":{
+        "Nome":"Cadastro e Listagem para um Site de Livros com React e Next.js",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_3",
+        "Descricao":"Desenvolvimento de um sistema de cadastro e listagem de livros utilizando React e Next.js. Os usuários podem cadastrar novos livros com informações como título, autor e categoria, além de visualizar uma lista de livros existentes de forma organizada e dinâmica",
+        "Responsivo":"Não",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["JAVASCRIPT","TYPESCRIPT","BOOTSTRAP"],"FRAMEWORK":["REACT","NEXT"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+    "S2-T4":{
+        "Nome":"Cadastro e Listagem para um Site de Livros com Angular",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_3",
+        "Descricao":"Similar ao trabalho anterior, porém utilizando Angular para desenvolver o sistema de cadastro e listagem de livros. Os usuários podem realizar operações CRUD (Create, Read, Update, Delete) para gerenciar informações de livros, aproveitando a estrutura robusta e eficiente do Angular",
+        "Responsivo":"Não",
+        "Tipo":"Front-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["2","dia"],
+        "Habilidades":{"LINGUAGEM":["TYPESCRIPT","BOOTSTRAP"],"FRAMEWORK":["ANGULAR"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+    "S2-T5":{
+        "Nome":"Utilização do Padrão DAO para Acesso ao Banco de Dados MongoDB em Angular, React e Next.js",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_2/tree/TodosOsTrabalhos/TRABALHO_NIVEL_5",
+        "Descricao":"Implementação do padrão DAO (Data Access Object) para conectar e acessar um banco de dados MongoDB nos frameworks Angular, React e Next.js. O projeto visa demonstrar a integração desses frameworks com o MongoDB, permitindo operações de CRUD com eficiência e segurança",
+        "Responsivo":"Não",
+        "Tipo":"Back-End",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["TYPESCRIPT","JAVASCRIPT","BOOTSTRAP"],"FRAMEWORK":["ANGULAR","REACT","NEXT"],"DATABASE":["MONGODB"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+
+    "S3-T1":{
+        "Nome":"Sistema de Cadastro de Clientes com Persistência em Arquivos",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_3/tree/main/TRABALHO_1",
+        "Descricao":"Neste projeto desenvolvido em Java, o objetivo é implementar um sistema de cadastro de clientes em modo texto, onde os dados dos clientes são armazenados de forma persistente em arquivos. O sistema permite realizar operações básicas como cadastro, consulta, atualização e exclusão de clientes, utilizando arquivos para armazenar e recuperar os dados.",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["JAVA"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S3-T1/1.png",
+            "/Imagens/Trabalhos/S3-T1/2.png",
+            "/Imagens/Trabalhos/S3-T1/3.png"
+        ]
+    },
+
+    "S3-T2":{
+        "Nome":"Manipulação de Dados em Banco de Dados SQL",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_3/tree/main/TRABALHO_2",
+        "Descricao":"Este projeto envolve a criação, inserção e consulta de dados em um banco de dados SQL. Utilizando comandos SQL para implementar um sistema para criar tabelas, inserir registros e realizar consultas para recuperar informações específicas armazenadas no banco de dados",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"DATABASE":["SQL"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S3-T2/1.png",
+            "/Imagens/Trabalhos/S3-T2/2.png",
+            "/Imagens/Trabalhos/S3-T2/3.png",
+            "/Imagens/Trabalhos/S3-T2/4.png",
+            "/Imagens/Trabalhos/S3-T2/5.png",
+            "/Imagens/Trabalhos/S3-T2/6.png",
+            "/Imagens/Trabalhos/S3-T2/7.png",
+            "/Imagens/Trabalhos/S3-T2/8.png",
+            "/Imagens/Trabalhos/S3-T2/9.png",
+            "/Imagens/Trabalhos/S3-T2/10.png",
+            "/Imagens/Trabalhos/S3-T2/11.png"
+        ]
+    },
+
+    "S3-T3":{
+        "Nome":"Cadastro e Persistência de Dados em SQL através do Terminal",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_3/tree/main/TRABALHO_3",
+        "Descricao":"Este projeto envolve desenvolver um sistema de cadastro e persistência de dados utilizando Java para a lógica de aplicação e SQL para a manipulação do banco de dados. As operações de cadastro, consulta, atualização e exclusão são realizadas diretamente através do terminal, demonstrando o uso prático da linguagem Java e SQL para gerenciar dados de forma eficiente",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"LINGUAGEM":["JAVA"],"DATABASE":["SQL"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S3-T3/1.png",
+            "/Imagens/Trabalhos/S3-T3/2.png",
+            "/Imagens/Trabalhos/S3-T3/3.png",
+            "/Imagens/Trabalhos/S3-T3/4.png",
+            "/Imagens/Trabalhos/S3-T3/5.png"
+        ]
+    },
+
+    "S3-T4":{
+        "Nome":"Sistema Cadastral Web com Servlets e JSPs",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_3/tree/main/TRABALHO_4",
+        "Descricao":"Este projeto consiste na criação de um sistema web cadastral utilizando Java para Servlets, JSPs (JavaServer Pages), HTML e CSS. O sistema permite aos usuários realizar operações de cadastro de clientes através de uma interface web interativa. Servlets são utilizados para processar requisições do cliente e JSPs para gerar páginas dinâmicas que exibem e interagem com os dados cadastrados",
+        "Responsivo":"Não",
+        "Tipo":"Full-Stack",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","sem"],
+        "Habilidades":{"LINGUAGEM":["JAVA","HTML","CSS"],"OUTROS":["SERVLETS","JSPS"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S3-T4/1.png",
+            "/Imagens/Trabalhos/S3-T4/2.png",
+            "/Imagens/Trabalhos/S3-T4/3.png",
+            "/Imagens/Trabalhos/S3-T4/4.png",
+            "/Imagens/Trabalhos/S3-T4/5.png"
+        ]
+    },
+
+    "S3-T5":{
+        "Nome":"Clientes Síncronos para Servidores com Sockets e Threads em Java",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_3/tree/main/TRABALHO_5",
+        "Descricao":"Neste projeto foi implementado clientes síncronos que se comunicam com um servidor utilizando Sockets. Threads são utilizadas para permitir a execução de múltiplos processos em paralelo, proporcionando uma experiência de comunicação assíncrona entre o cliente e o servidor. ",
+        "Responsivo":"Não",
+        "Tipo":"Full-Stack",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","sem"],
+        "Habilidades":{"LINGUAGEM":["JAVA"],"OUTROS":["SERVLETS","THREADS"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S3-T5/1.png",
+            "/Imagens/Trabalhos/S3-T5/2.png"
+        ]
+    },
+
+
+    "S4-T1":{
+        "Nome":"Adicionando Interatividade com React Native",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_4/tree/main/TRABALHO_NIVEL_1",
+        "Descricao":"Neste projeto, utiliza-se JavaScript junto ao framework React Native para desenvolver uma aplicação móvel interativa que envolve desenvolver um sistema de cadastro, aproveitando as funcionalidades nativas dos dispositivos móveis",
+        "Responsivo":"Não",
+        "Tipo":"Mobile",
+        "Colaborador":"Nicolas",
+        "Duracao":["3","dia"],
+        "Habilidades":{"LINGUAGEM":["JAVASCRIPT"],"FRAMEWORK":["REACT NATIVE"],"DESIGN":["FIGMA"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S4-T1/1.png",
+            "/Imagens/Trabalhos/S4-T1/2.png",
+            "/Imagens/Trabalhos/S4-T1/3.png",
+            "/Imagens/Trabalhos/S4-T1/4.png"
+        ]
+    },
+
+    "S4-T2":{
+        "Nome":"Desenvolvimento de Aplicativo com Flutter",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_4/tree/main/TRABALHO_NIVEL_2",
+        "Descricao":"Neste projeto, envolve a criação de um aplicativo utilizando Dart e o framework Flutter para uma empresa de viagens, possibilitando escolher companhias e hotéis cadastradas e fazer uma cotação do valor ",
+        "Responsivo":"Sim",
+        "Tipo":"Mobile",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","sem"],
+        "Habilidades":{"LINGUAGEM":["DART"],"FRAMEWORK":["FLUTTER"],"DESIGN":["FIGMA"]},
+        "Imagens":[
+             "/Imagens/Trabalhos/S4-T2/1.png",
+             "/Imagens/Trabalhos/S4-T2/2.png",
+             "/Imagens/Trabalhos/S4-T2/3.png",
+             "/Imagens/Trabalhos/S4-T2/4.png",
+             "/Imagens/Trabalhos/S4-T2/5.png",
+             "/Imagens/Trabalhos/S4-T2/6.png",
+             "/Imagens/Trabalhos/S4-T2/7.png",
+             "/Imagens/Trabalhos/S4-T2/8.png",
+             "/Imagens/Trabalhos/S4-T2/9.png",
+             "/Imagens/Trabalhos/S4-T2/10.png",
+             "/Imagens/Trabalhos/S4-T2/11.png",
+             "/Imagens/Trabalhos/S4-T2/12.png",
+             "/Imagens/Trabalhos/S4-T2/13.png",
+             "/Imagens/Trabalhos/S4-T2/14.png",
+             "/Imagens/Trabalhos/S4-T2/15.png",
+             "/Imagens/Trabalhos/S4-T2/16.png",
+             "/Imagens/Trabalhos/S4-T2/17.png",
+             "/Imagens/Trabalhos/S4-T2/18.png"
+        ]
+    },
+
+    "S4-T3":{
+        "Nome":"Manipulação de Sensores em Dispositivos Móveis com Java",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_4/tree/main/TRABALHO_NIVEL_3",
+        "Descricao":"Neste projeto, utiliza-se Java para lidar com sensores em dispositivos móveis. Utilizar os sensores disponíveis nos smartphones, como acelerômetro, giroscópio e sensor de proximidade. O projeto demonstra aplicações práticas dos conceitos de programação em Java voltados para interações físicas com os Wear Os",
+        "Responsivo":"Não",
+        "Tipo":"Wear OS",
+        "Colaborador":"Nicolas",
+        "Duracao":["4","dia"],
+        "Habilidades":{"LINGUAGEM":["JAVA"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S4-T3.png"
+        ]
+    },
+
+    "S4-T4":{
+        "Nome":"Utilização de Tecnologias de Nuvem para Projetos de Software",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_4/tree/main/TRABALHO_NIVEL_4",
+        "Descricao":"Este projeto foca na integração e uso de tecnologias de nuvem, especificamente T-SQL, para desenvolver e aprimorar projetos de software. ",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"DATABASE":["T-SQL"],"OUTROS":["AZURE"]},
+        "Imagens":[
+            "/Imagens/ImagemExVazia.png"
+        ]
+    },
+
+    "S4-T5":{
+        "Nome":"Vamos interligar as coisas com a nuvem",
+        "Codigo_Fonte":"https://github.com/N1ckg4m3s/TRABALHOS_CURSO_FULLSTACK_4/tree/main/TRABALHO_NIVEL_5",
+        "Descricao":"O foco desse projeto foi de conectar um simulador Raspberry Pi a um site hospedado no Azure por meio do WebApp ",
+        "Responsivo":"Não",
+        "Tipo":"Console",
+        "Colaborador":"Nicolas",
+        "Duracao":["1","dia"],
+        "Habilidades":{"OUTROS":["AZURE"]},
+        "Imagens":[
+            "/Imagens/Trabalhos/S4-T5_1.png"
+        ]
+    }
+}
